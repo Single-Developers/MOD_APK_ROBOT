@@ -1,4 +1,4 @@
-# 🔰 MOD Aρρ BOT 🔰
+# [🔰 MOD Aρρ BOT 🔰](https://t.me/MOD_APK_ROBOT)
 
 
 ![mod-apk-dp](https://user-images.githubusercontent.com/85282650/147602072-4d3e0241-2096-4e9f-9814-140288ed5bfb.png)
@@ -39,7 +39,7 @@
 
  <p>
 <div class="div2">
- <span><a href="https://t.me/s/SingleDevelopers/640"><img src="https://user-images.githubusercontent.com/85282650/147604134-fdb2ea1f-59d3-4dba-9f2e-d037f6011a6e.png" alt="Tutorial Video"width="30"height="30"/>🙋‍♂️ Tutorial Video</a></span>
+ <span><a href="https://t.me/s/SingleDevelopers/640"><img src="https://user-images.githubusercontent.com/85282650/147604134-fdb2ea1f-59d3-4dba-9f2e-d037f6011a6e.png" alt="Tutorial Video"width="15"height="15"/>🙋‍♂️ Tutorial Video</a></span>
  </div>
  </p>
  
