@@ -37,7 +37,7 @@
 
 ##
 
-[![🙋‍♂️ Tutorial Video](https://user-images.githubusercontent.com/85282650/147604134-fdb2ea1f-59d3-4dba-9f2e-d037f6011a6e.png)](https://t.me/s/SingleDevelopers/640)
+[![🙋‍♂️ Tutorial Video](https://user-images.githubusercontent.com/85282650/147605129-abd9afa4-19fc-4aef-a2a0-4d743b858e85.png)](https://t.me/s/SingleDevelopers/640)
  
 ##
 
