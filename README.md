@@ -37,9 +37,10 @@
 
 ##
 
-[![🙋‍♂️ Tutorial Video](https://user-images.githubusercontent.com/85282650/147605129-abd9afa4-19fc-4aef-a2a0-4d743b858e85.png)](https://t.me/s/SingleDevelopers/640)
+[![🙋‍♂️ Tutorial Video](https://user-images.githubusercontent.com/85282650/147605214-e3676e85-9363-468c-b53a-a099bfe83846.png)](https://t.me/s/SingleDevelopers/640)
  
 ##
+
 
 ◇───────────────◇
 
