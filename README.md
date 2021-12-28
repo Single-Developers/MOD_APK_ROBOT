@@ -19,9 +19,7 @@
 
 ## ◇────────────────────◇
 
-
-![image](https://user-images.githubusercontent.com/85282650/147603410-261108ba-0ad6-4abb-9039-b3bf9e0c2284.png) ![image](https://user-images.githubusercontent.com/85282650/147603465-c33157e8-8930-4e6e-afc6-2a59835d14a5.png)
-
+<img src="https://user-images.githubusercontent.com/85282650/147603410-261108ba-0ad6-4abb-9039-b3bf9e0c2284.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/85282650/147603465-c33157e8-8930-4e6e-afc6-2a59835d14a5.png" width="45%"></img> 
 
 
 
