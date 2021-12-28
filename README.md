@@ -37,11 +37,7 @@
 
 ##
 
- <p>
-<div class="div2">
- <span><a href="https://t.me/s/SingleDevelopers/640"><img src="https://user-images.githubusercontent.com/85282650/147604134-fdb2ea1f-59d3-4dba-9f2e-d037f6011a6e.png" alt="Tutorial Video"width="20"height="20"/>🙋‍♂️ Tutorial Video</a></span>
- </div>
- </p>
+[![🙋‍♂️ Tutorial Video](https://user-images.githubusercontent.com/85282650/147604134-fdb2ea1f-59d3-4dba-9f2e-d037f6011a6e.png)](https://t.me/s/SingleDevelopers/640)
  
 ##
 
